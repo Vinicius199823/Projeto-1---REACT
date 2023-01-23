@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Teste @",
+      "email": "mcarlos@asbg.com.br",
+      "id": 3
+    },
+    {
+      "name": "Luiz Afonso",
+      "email": "afonso.luiz@gmail.com",
+      "id": 4
+    }
+  ]
+}
